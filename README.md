@@ -1,18 +1,4 @@
-Aca inluyo Link de Google Drive de la presentacion del Video 
-
-https://drive.google.com/file/d/1Arbxr98aHYMTsmymqHc92PsvmLkBo0WR/view?usp=drive_link 
-
-Aca se encuentra el Video de la Presentación
-
-
-
-
-
-# [P:P:1] CampusLands ERP
-
----
-
-🚨 ***Se guarda el derecho de solicitar la conexión a Discord con pantalla compartida para la validación del desarrollo de este proyecto.*** 🚨
+CampusLands ERP
 
 ---
 
@@ -77,57 +63,6 @@ evalúa el rendimiento de cada uno de los **campers** teniendo en cuenta la not
 
 ---
 
-## Recursos
-
-## Requerimientos técnicos
-
-Para desarrollar dicho proyecto se deben tener los siguientes puntos en cuenta: 
-
-- Se puede realizar en equipos de 2 personas, las cuales deben aportar periódicamente al repositorio de GitHub. Para este caso, se creará un repositorio llamado “Proyecto_Python_Apellido1Nombre1-Apellido2Nombre2” con dicho fin.
-- Solamente se permitirá usar archivos JSON para la persistencia de datos, pues la idea es aplicar los principios CRUD (Crear, Leer, Actualizar y Eliminar).
-
----
-
-# Criterios y Rúbrica Evaluativa
-
-De acuerdo a lo establecido y solicitado, se muestra la rúbrica evaluativa a tener en cuenta:
-
-### 1. Creación de Menú de Navegación y Persistencia
-
-- **0 puntos**: No se creó ningún menú a nivel de consola para navegar por las funcionalidades del programa, al igual que no se encuentra persistencia alguna en un archivo externo.
-- **5 puntos**: Se visualiza el intento de creación de un menú a nivel de codificación, pero no está funcional o no entendible para el usuario final, al igual que no se encuentra persistencia alguna en un archivo externo.
-- **10 puntos**: Se visualiza la creación de un menú a nivel de consola, pero no cumple con los roles y funcionalidades establecidas en este ejercicio, al igual que no se encuentra persistencia alguna en un archivo externo.
-- **20 puntos**: Se crea de manera exitosa un menú comprensible para el usuario final en consola, cumpliendo con los requerimientos establecidos en este documento, y manteniendo persistencia de la información manejada a lo largo del programa.
-
-### 2. Módulo de Coordinación Académica
-
-- **0 puntos**: No se creó ningún módulo funcional para el rol de Coordinación Académica en el programa.
-- **5 puntos**: Se evidencia el intento de creación de un módulo para el rol de Coordinación Académica, pero no está funcional o no entendible para el usuario final.
-- **10 puntos**: Se evidencia la creación de un módulo para el rol de Coordinación Académica, pero no cumple con los requerimientos o funcionalidades solicitadas.
-- **20 puntos**: Se crea exitosamente el módulo para Coordinación Académica, cumpliendo con los requerimientos establecidos en este documento, y manteniendo persistencia de la información manejada a lo largo del programa.
-
-### 3. Módulo de Trainer
-
-- **0 puntos**: No se creó ningún módulo funcional para el rol de Trainer en el programa.
-- **5 puntos**: Se evidencia el intento de creación de un módulo para el rol de Trainer, pero no está funcional o no entendible para el usuario final.
-- **10 puntos**: Se evidencia la creación de un módulo para el rol de Trainer, pero no cumple con los requerimientos o funcionalidades solicitadas.
-- **20 puntos**: Se crea exitosamente el módulo para Trainer, cumpliendo con los requerimientos establecidos en este documento, y manteniendo persistencia de la información manejada a lo largo del programa.
-
-### 4. Módulo de reportes
-
-- **0 puntos**: No se evidencia la creación o intento de creación de dicha funcionalidad a lo largo del programa, al igual que no se encuentra persistencia alguna en un archivo externo.
-- **5 puntos**: Se crea la estructura para la funcionalidad , pero no acciona de manera correcta o en estado no funcional, al igual que no se encuentra persistencia alguna en un archivo externo.
-- **10 puntos**: Se implementa el 50% de los ítems requeridos a nivel de funcionalidad, manteniendo la persistencia de la información en un archivo externo.
-- **20 puntos**: Se implementa el 100% de los ítems requeridos a nivel de funcionalidad, manteniendo la persistencia de la información en un archivo externo.
-
-### 5. GitHub y Entrega de Proyecto
-
-- 🚨 **Cancelación o Anulación del Proyecto** : No se entregó ningún repositorio, su visualización está oculta (o no compartida con el Trainer) o hubo adulteración después de la fecha y hora establecida para su entrega, ***Evidencia de clonación o conocido como `fork` de algún repositorio, distribución y/o copia de dicho trabajo por cualquier medio de comunicación (verbal, digital, entre otras), se asumirá como cancelación del proyecto de manera definitiva.*** 🚨
-- **5 puntos**: Se creó el repositorio, pero en su rama principal no se encuentra el proyecto general ,al igual que algún archivo en relación al proyecto.
-- **10 puntos**: Se creó exitosamente el repositorio, donde en su rama principal se encuentra el proyecto general y sus archivos en relación a ello, con evidencia de la participación del equipo completo de manera periódica.
-
-
-# 🎉***¡Éxitos en el desarrollo de este proyecto!***🎉
-
+Elaborado por: Edgar Leonardo Acevedo Arteaga. 
 
 
